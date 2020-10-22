@@ -1,0 +1,74 @@
+
+.tittle h1{
+ text-align: center;
+}
+
+.Home{
+  text-align: center;
+  margin:100px auto;
+}
+
+.select{
+  margin:100px 0px;
+}
+
+.select h1{
+  text-align: center;
+}
+
+#gfot{
+  height:150px;
+  width: 150px;
+}
+
+#gbtn{
+    font-size: 1.4em;
+    font-weight: bold;
+
+}
+
+#tfot{
+
+    height:150px;
+    width: 150px;
+}
+
+#tbtn{
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+#pfot{
+
+    height:150px;
+    width: 150px;
+}
+
+#pbtn{
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.g{
+    float:left;
+    margin:0px 200px;
+}
+
+
+.t{
+    float:left;
+    margin:0px 200px;
+}
+
+
+.p{
+    float:left;
+    margin:0px 200px;
+}
+
+#result{
+  text-align: center;
+  margin:300px 0px;
+  font-size:50px ;
+
+}
